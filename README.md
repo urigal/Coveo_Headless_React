@@ -1,2 +1,1 @@
-# Coveo_Headless_React
-Created with CodeSandbox
+Intro example to headless using Material UI and React
